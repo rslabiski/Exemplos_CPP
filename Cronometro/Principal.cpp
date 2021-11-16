@@ -1,8 +1,8 @@
 #include <iostream>
 #include <ctime> // time.h
 
-int main()
-{
+int main() {
+    
     clock_t tAnterior, tAtual;
     float segundos, dt, oneseg;
 
