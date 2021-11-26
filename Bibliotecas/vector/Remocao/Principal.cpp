@@ -2,16 +2,6 @@
 #include <vector>
 #include "Pessoa.hpp"
 
-void pulandoPessoas(std::vector<Pessoa> *pPessoas)
-{
-    int i = 0;
-    for(i = 0; i< pPessoas->size(); i++)
-    {
-
-    }
-
-}
-
 int main()
 {
     std::vector<Pessoa> pessoas;
